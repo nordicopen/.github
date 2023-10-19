@@ -1,2 +1,2 @@
 # .github
-Repositry for miscellaneous open-source projects
+Repository for miscellaneous open-source projects
